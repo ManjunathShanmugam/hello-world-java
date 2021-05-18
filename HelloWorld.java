@@ -38,5 +38,11 @@ public class HelloWorld {
     System.out.println("Hello, DevOps");
     System.out.println("Hello, ITO");
     System.out.println("Hello, Anna");
+    System.out.println("Anna");
+    System.out.println("Hello");
+    System.out.println("Anu");
+    System.out.println("Luv u more than anything");
+    System.out.println("Miss u kane");
+    System.out.println("Luv u chikku");
   }
 }
