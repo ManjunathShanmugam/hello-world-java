@@ -44,5 +44,7 @@ public class HelloWorld {
     System.out.println("Luv u more than anything");
     System.out.println("Miss u kane");
     System.out.println("Luv u chikku");
+    System.out.println("Luv u chikkuma");
+    System.out.println("Luv u chikku bby");
   }
 }
