@@ -40,6 +40,8 @@ public class HelloWorld {
     System.out.println("Hello, Anna");
     System.out.println("Anna");
     System.out.println("Annaaaaaaaaaaaaaaaaaaa");
+    System.out.println("Luv you chikku");
     System.out.println("Anna Eeyyy");
+    System.out.println("Miss you");
   }
 }
