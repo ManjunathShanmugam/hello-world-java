@@ -39,5 +39,7 @@ public class HelloWorld {
     System.out.println("Hello, ITO");
     System.out.println("Hello, Anna");
     System.out.println("Anna");
+    System.out.println("Annaaaaaaaaaaaaaaaaaaa");
+    System.out.println("Anna Eeyyy");
   }
 }
